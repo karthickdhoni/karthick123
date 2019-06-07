@@ -1,7 +1,9 @@
-num-int(input())
-if num%2==0:
-print("Even")
-if num<0:
-  print("invalid")
+a=int(input())
+if (a>0):
+  c=a%2
+  if (c==0):
+    print("Even")
+  else:
+    print("Odd")
 else:
-print("odd")
+  print("invalid")
