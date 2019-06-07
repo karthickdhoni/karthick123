@@ -1,10 +1,10 @@
-a1,a2=[int(a1) for a1 in input().split()]
-b=[a1,a2]
-b1=b[1]
-k=b1
+b1,b2=[int(b1) for b1 in input().split()]
+a=[b1,b2]
+a1=a[1]
+k=a1
 n=(k+1)
-m=k
-t=n*m
+w=k
+t=n*w
 w=t/2
-r=int(w)
+r=int(m)
 print(r)
