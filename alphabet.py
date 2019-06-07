@@ -1,5 +1,5 @@
 a=str(input())
 if a.isalpha():
-print("Alphabet")
+ print("Alphabet")
 else:
-print("No")
+ print("No")
