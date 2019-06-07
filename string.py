@@ -9,5 +9,5 @@ for i in zip(*arr):
         l.append(i[0])
     else:
         break
- print(''.jion(1))
+print(''.join(1))
     
