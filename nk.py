@@ -5,6 +5,6 @@ k=a1
 n=(k+1)
 w=k
 t=n*w
-w=t/2
+m=t/2
 r=int(m)
 print(r)
