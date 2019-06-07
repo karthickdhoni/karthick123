@@ -1,4 +1,4 @@
-b=list(map(int,input().split()))
-b.sort()
-a=max(b)
-print(a)
+a=list(map(int,input().split()))
+a.sort()
+b=max(a)
+print(b)
