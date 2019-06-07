@@ -1,7 +1,7 @@
-a=int(input())
-n=(a+1)
-p=a
-m=n*p
-q=m/2
-t=int(q)
-print(t)
+n=int(input())
+a=(n+1)
+q=n
+w=a*q
+p=w/2
+v=int(p)
+print(v)
